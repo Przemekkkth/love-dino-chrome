@@ -302,7 +302,6 @@ end
 function runGame(dt)
     if not m_gameover then
         local fixedSpeed = m_speed * dt
-        print(fixedSpeed)
         local random_distance = math.random(1, 2)
         if m_count % ((50 - math.floor(fixedSpeed))* random_distance) == 0 then
             local rand_obj = (love.math.random(1, 100) % #m_objs) + 1
