@@ -2,7 +2,7 @@
 Love Dino Chrome - a replica of the hidden game from Chrome offline mode written in LÖVE. This a project based on [project](https://github.com/terroo/chrome-dino).
 
 ## Screenshots
-![Example Image](/doc/screen.gif)
+![Example Image](/doc/doc_screen.png)
 
 ## Controls
 |     Key       | Action        |
